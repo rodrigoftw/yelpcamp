@@ -25,3 +25,15 @@ v1.0.2
 * Add in body-parser
 * Setup route to show form
 * Add basic unstyled form
+
+v1.0.3
+-------------------
+#Style the Campgrounds page
+* Add a better header/title
+* Make campgrounds display in a grid
+
+v1.0.4
+-------------------
+#Style the Navbar and Form
+* Add a navbar to all templates
+* Style the new campground form
