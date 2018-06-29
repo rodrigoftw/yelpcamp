@@ -9,3 +9,19 @@ v1.0.0
 Each Campground has:
 * Name
 * Image
+
+v1.0.1
+-------------------
+
+#Layout and Basic Styling
+* Create our header and footer partials
+* Add in Bootstrap
+
+v1.0.2
+-------------------
+
+#Creating New Campgrounds
+* Setup new campground POST route
+* Add in body-parser
+* Setup route to show form
+* Add basic unstyled form
